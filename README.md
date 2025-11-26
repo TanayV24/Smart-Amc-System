@@ -1,9 +1,3 @@
-Absolutely — here is a **clean, polished, professional README** for your
-**Smart-AMC-System** repository.
-Everything is structured, formatted, and ready to paste directly into GitHub.
-
----
-
 # **Smart AMC System**
 
 A complete web-based solution for managing **Annual Maintenance Contracts (AMC)** — including clients, devices, service schedules, invoices, and maintenance history.
